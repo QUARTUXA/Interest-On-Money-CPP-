@@ -49,5 +49,5 @@ Enter your income / money: 1000
 Enter your interest rate: 1.1
 Your income after 1.1 interest rate is: 1100
 
-Author
+## Author
 Devang
